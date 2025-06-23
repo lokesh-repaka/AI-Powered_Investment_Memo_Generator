@@ -1,5 +1,6 @@
 # 🤖 AI-Powered Investment Memo Generator
-![Uploading image.png…]()
+<img width="1413" alt="image" src="https://github.com/user-attachments/assets/fa73d6c6-9541-426a-914d-c957cf2479f7" />
+
 
 This is a comprehensive Streamlit application that automates the generation of a detailed investment memo for a publicly traded company. It orchestrates a multi-phase process involving document analysis, web research, and AI-powered synthesis to produce a structured report.
 
