@@ -1,0 +1,18 @@
+# requirements.txt
+
+# --- Core Streamlit and Environment ---
+streamlit
+python-dotenv
+
+# --- LangChain and AI Model Connectors ---
+langchain
+langchain-groq
+langchain-huggingface
+
+# --- Document Processing and Vector Store ---
+pypdf
+faiss-cpu
+numpy
+
+# --- Web Search Tool for Phase 2 ---
+google-search-results
