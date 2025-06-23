@@ -8,6 +8,7 @@ python-dotenv
 langchain
 langchain-groq
 langchain-huggingface
+sentence-transformers
 
 # --- Document Processing and Vector Store ---
 pypdf

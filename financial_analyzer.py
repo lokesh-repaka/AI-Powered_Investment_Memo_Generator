@@ -14,6 +14,8 @@ from langchain_huggingface import HuggingFaceEmbeddings
 
 # Models are loaded once when the module is imported
 print("Initializing models for Phase 1...")
+from dotenv import load_dotenv
+load_dotenv()
 groq_api_key = os.getenv("GROQ_API_KEY")
 llm = ChatGroq(api_key=groq_api_key, model="llama-3.1-8b-instant", temperature=0)
 embeddings_model = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en-v1.5")
