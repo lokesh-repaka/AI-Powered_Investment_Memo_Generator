@@ -129,7 +129,7 @@ With the setup complete, running the application is simple.
 ├── .venv/                # Your Python virtual environment
 ├── app.py                # The main Streamlit application file
 ├── financial_analyzer.py    # Logic for financial document analysis
-├──market_research.py # Logic for web-based market research
+├── market_research.py # Logic for web-based market research
 ├── memo_generator.py # Logic for generating the final memo
 ├── README.md             # This file
 └── requirements.txt      # List of Python packages to install
